@@ -9,6 +9,5 @@ s.platform     = :ios, "8.0"
 s.source       = {:git => "https://github.com/laurawxy/XYTableView.git", :tag => "#{s.version}"}
 s.source_files = "XYTableView"
 s.requires_arc = true
-s.dependency "Masonry"
 s.dependency "MJRefresh"
 end
